@@ -17,8 +17,8 @@ Construct the form
 Add a submit button and Link Bootstrap JavaScript.
 
 # CODE: 10(a)
-DEVELOPED BY:N.KANNAN
-REGISTER NO:212223230097
+## DEVELOPED BY:N.KANNAN
+## REGISTER NO:212223230097
 ```
 <!DOCTYPE html>
 <html>
@@ -110,8 +110,8 @@ Add a submit button for the form.
 Link the Bootstrap JavaScript file at the end of the body.
 
 # CODE: 10(b)
-DEVELOPED BY:N.KANNAN
-REGISTER NO:212223230097
+## DEVELOPED BY:N.KANNAN
+## REGISTER NO:212223230097
 
 ```
 <!DOCTYPE html>
@@ -175,8 +175,8 @@ Add a submit button for the form.
 Add a script to handle the form validation on submit.
 
 # CODE: 10(c):
-DEVELOPED BY:N.KANNAN
-REGISTER NO:212223230097
+## DEVELOPED BY:N.KANNAN
+## REGISTER NO:212223230097
 ```
 <!DOCTYPE html>
 <html>
@@ -254,8 +254,8 @@ Add a submit button for the form.
 Add a script to handle the form validation on submit.
 
 # CODE: 10(d):
-DEVELOPED BY:N.KANNAN
-REGISTER NO:212223230097
+## DEVELOPED BY:N.KANNAN
+## REGISTER NO:212223230097
 ```
 
 <!DOCTYPE html>
